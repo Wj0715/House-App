@@ -1,0 +1,16 @@
+.chart_div{
+    
+    background-color:#fff;
+    margin: 200px auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.chart_img{
+    width:30%;
+
+}
+.chart_btn{
+    width:30%;
+   color:#fff !important;
+   margin:20px auto;
+}
